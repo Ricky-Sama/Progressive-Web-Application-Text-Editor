@@ -36,7 +36,7 @@ module.exports = () => {
         inject: true,
         name: "Just Another Text Editor",
         short_name: "J.A.T.E.",
-        description: "Create notes with or without an internet connection!",
+        description: "Take notes with JavaScript syntax highlighting!",
         background_color: "#225ca3",
         theme_color: "#225ca3",
         start_url: "./",

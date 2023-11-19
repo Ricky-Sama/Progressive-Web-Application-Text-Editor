@@ -14,7 +14,7 @@ This PWA Text Editor will allow users to create notes or code snippets and run t
 * [License](#license)
 
 ## Usage
-Clone the repository then run "npm run start" in the terminal. The application should open up in your browser. Enjoy!
+Clone the repository, install the necessary dependencies (npm i webpack-cli), then run "npm run start" in the terminal. The application should open up in your browser. Enjoy!
 
 ## Mock-Up
 
